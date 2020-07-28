@@ -1516,7 +1516,7 @@ negotiationTime ()
         config();
     }
 
-	dprintf( D_ALWAYS, "---------- Started Negotiation Cycle ----------\n" );
+	dprintf( D_ALWAYS, "---------- Started New Negotiation Cycle ----------\n" );
 
 	time_t start_time = time(NULL);
 
